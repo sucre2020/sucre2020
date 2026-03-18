@@ -12,7 +12,7 @@ Currently I work with [Balance of Nature](https://balanceofnature.com/) as a dec
 
 ## Technologies and Tools
 
-- Proficient in: Python, Flask, HTML, CSS, Jinja2 template engine, JS, GitHub,SQL,C#
+- Proficient in: Python, Flask, HTML, CSS, Jinja2 template engine, JS, GitHub, SQL, MOngoDB, C#
 
 - Skills: Dedicated and results-driven Full-Stack Software Developer with a strong analytical mindset and technical expertise.
 - Proven track record in writing and maintaining GitHub Actions and workflows, with a deep understanding of CI/CD concepts and tools.
