@@ -5,7 +5,7 @@ I'm Efita Effiom, a student at Brigham Young University-Idaho interested in Soft
 ## About Me
 I'm a developer passionate about building scalable web and mobile applications, desktop softwares, embedded systems, AI and machine learning systems.  
 
-Currently I work with with [Balance of Nature](https://balanceofnature.com/) as a declined prevention specialist from Mondays - Thursdays, and as a Software Engineer - Product Development at [Sangisang Handyman Services](https://handymancrib.com/) on weekends.
+Currently I work with [Balance of Nature](https://balanceofnature.com/) as a declined prevention specialist from Mondays - Thursdays, and as a Software Engineer - Product Development at [Sangisang Handyman Services](https://handymancrib.com/) on weekends.
 
 ### Other Aspects:
 - I'm currently learning about Software Testing using Squash and Docker Desktop
